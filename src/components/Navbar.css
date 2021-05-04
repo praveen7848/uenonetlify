@@ -1,0 +1,43 @@
+.navbar-brand{
+   
+   font-weight: 500;
+}
+.button {
+    background-color: #a52a2a;
+    border: none;
+    color: white;
+    padding: 8px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 1px 2px;
+    cursor: pointer;
+margin-left: 20%;
+margin-top: auto;
+    border-radius: 15px;
+    font-size: small;
+      font-weight: bold;
+      font-family: sans-serif;
+  }
+  .nav-link{
+      font-size: small;
+      font-weight: bold;
+      font-family: sans-serif;
+      color: black !important;
+  }
+  .brand{
+      font-family: sans-serif;
+      
+  }
+  .navbar-brand{
+    font-weight: bolder;
+    font-size: xx-large;
+    color: black !important;
+  }
+  .navbar{
+      margin-top: 3%;
+      margin-left: 4%;
+      
+      
+  }

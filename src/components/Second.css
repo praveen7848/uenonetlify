@@ -1,0 +1,54 @@
+.text{
+    font-family: 'Open Sans Condensed', sans-serif;
+
+}
+.smalltext{
+    font-weight: bold;
+}
+.bigtext{
+    font-size: 50px;
+    margin-top: 10%;
+}
+.second{
+    color: black;
+    margin-top: 2%;
+}
+
+.bigtext:after {    
+    background: none repeat scroll 0 0 transparent;
+    bottom: 0;
+    content: "";
+    display: block;
+    height: 2px;
+    left: 50%;
+   
+    background: rgb(14, 13, 13);
+    transition: width 0.3s ease 0s, left 0.3s ease 0s;
+    width: 0;
+  }
+  .bigtext:hover:after { 
+    width: 100%; 
+    left: 0; 
+  }
+  
+  
+ 
+  
+
+.image{
+    
+    transition: 0.9s all ease-in-out;
+    
+}
+   
+.image:hover img {
+    transform: scale(1.1);
+   
+    width: 650px;
+    height: 300px;
+}
+.image{
+    width: 650px;
+    height: 300px;
+ 
+}
